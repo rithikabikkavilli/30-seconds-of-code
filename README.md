@@ -9,11 +9,11 @@
 * [Credits](#credits)
 
 ## What is 30 seconds of code?
-30 seconds of code provides short JavaScript, CSS, React, Python, Node.js, and Git code snippets for all your development needs
+30 seconds of code provides short JavaScript, CSS, React, Python, Node.js, and Git code snippets for all your development needs.
 
 Code snippets can include common tasks in a certain language, such as merging a list in Python, or it could be commonly asked questions, such as what iterators in Javascript are used for and how to use them. Each code snippet also provides a brief description of the process of question, and then demonstrates the question to answer in a practical code snippet, which is able to be copy-pasted for personal use with appropriate credit to 30 seconds of code.
 
-Code snippets are also tagged by algorithm/data structure such as array, string, etc., and are sorted by tag within each language's collection
+Code snippets are also tagged by algorithm/data structure such as array, string, etc., and are sorted by tag within each language's collection.
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection.
 * Use the [Search page](https://30secondsofcode.org/search) to find snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
